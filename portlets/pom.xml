@@ -39,6 +39,6 @@
         </plugins>
     </build>
     <modules>
-
-    </modules>
+    <module>sample-portlet</module>
+  </modules>
 </project>
